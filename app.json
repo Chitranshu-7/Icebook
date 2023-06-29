@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.chitranshu7.Icebook"
     },
     "web": {
       "favicon": "./assets/favicon.png"
